@@ -5,5 +5,7 @@
 - Built two algorithms: angle finding (reading) and motor driving
 
 Algorithm flowchart:
-
+`#000000`
 <img width="378" alt="image" src="https://github.com/user-attachments/assets/543db6ec-be91-40f5-8c43-55fed6f89190">
+
+`#fffff`
