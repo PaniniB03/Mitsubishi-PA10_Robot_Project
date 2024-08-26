@@ -9,3 +9,4 @@ Algorithm flowchart:
 
 <img width="378" alt="image" src="https://github.com/user-attachments/assets/543db6ec-be91-40f5-8c43-55fed6f89190">
 
+Source code that was modified for this project: https://www.patreon.com/posts/arduino-library-43299624
