@@ -17,3 +17,5 @@ Sample positional output (blue) of when an operator inputs (orange) a desired an
 <br> <br/>
 Demonstration of directly controlling the angular position of the resolver:
 ![ezgif com-video-to-gif](https://github.com/user-attachments/assets/5a521cb7-595f-4311-a605-89fc52393834)
+
+- Using: "ResolverMotorExperiments.ino"
