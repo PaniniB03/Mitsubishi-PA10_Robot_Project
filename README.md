@@ -9,13 +9,12 @@ Algorithm flowchart:
 
 <img width="378" alt="image" src="https://github.com/user-attachments/assets/543db6ec-be91-40f5-8c43-55fed6f89190">
 
-
-<br> <br/>
-Sample positional output (blue) of when an operator inputs (orange) a desired angle of 180 deg from 90 deg.
-<img width="378" alt="image" src="https://github.com/user-attachments/assets/e8e7c459-836d-4a44-b811-8c33553e6baa">
-
 <br> <br/>
 Demonstration of directly controlling the angular position of the resolver:
 ![ezgif com-video-to-gif](https://github.com/user-attachments/assets/5a521cb7-595f-4311-a605-89fc52393834)
 
-- Using: "ResolverMotorExperiments.ino"
+- Using: "ResolverMotorExperiments.ino" using library from "Resolver" folder
+
+<br> <br/>
+Sample positional output (blue) of when an operator inputs (orange) a desired angle of 180 deg from 90 deg.
+<img width="378" alt="image" src="https://github.com/user-attachments/assets/e8e7c459-836d-4a44-b811-8c33553e6baa">
