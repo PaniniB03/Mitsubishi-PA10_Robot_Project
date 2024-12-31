@@ -9,7 +9,7 @@
 - Built two algorithms: angle finding (reading) and motor driving
 
 <p align="center">
-## Algorithm flowchart:
+Algorithm flowchart:
 </p>
 
 <p align="center">
