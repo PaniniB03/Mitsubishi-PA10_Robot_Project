@@ -8,9 +8,9 @@
 
 - Built two algorithms: angle finding (reading) and motor driving
 
-Algorithm flowchart:
-
 <p align="center">
+Algorithm flowchart:
+  
 <img width="378" alt="image" src="https://github.com/user-attachments/assets/543db6ec-be91-40f5-8c43-55fed6f89190">
 </p>
 
@@ -18,10 +18,8 @@ Algorithm flowchart:
 <p align="center">
 Demonstration of directly controlling the angular position of the resolver:
 </p>
-
-<p align="center">
 ![ezgif com-video-to-gif](https://github.com/user-attachments/assets/5a521cb7-595f-4311-a605-89fc52393834)
-</p>
+
 
 - Using: "ResolverMotorExperiments.ino" using library from "Resolver" folder
 
