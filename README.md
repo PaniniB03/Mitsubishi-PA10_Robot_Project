@@ -1,4 +1,4 @@
-# Mitsubishi-PA10
+# Mitsubishi-PA10 Robot Project
 
 <p align="center">
 <img width="323" alt="Screenshot 2024-08-10 at 7 40 49 PM" src="https://github.com/user-attachments/assets/ba0c88bd-2c2c-43e3-a72b-6aa42e94ea5a">
